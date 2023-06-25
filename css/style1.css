@@ -1,0 +1,62 @@
+#cabecalho {
+    width: 800px;
+    height: 80px;
+    margin: 5px auto;
+    background-color: brown;
+    text-align: center;
+}
+
+#cabecalho h1 {
+    color: rgb(12, 10, 10);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 20px;
+}
+
+#corpo {
+    width: 800px;
+    height: 500p x;
+    background-color: white;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#corpo h2 {
+    text-align: center;
+    font-size: 18pt;
+    color: brown;
+    padding-top: 20px;
+    text-decoration: underline;
+
+}
+
+#corpo h3{
+    text-align: center;
+    font-size: 16pt;
+    text-decoration: underline;
+}
+
+#corpo p {
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 14px;
+    font-family: cursive;
+    color: black;
+    margin: 10px 20px;
+    text-align: center;
+}
+
+#rodape {
+    width: 500px;
+    height: 50px;
+    margin: 5px auto;
+    background-color: brown;
+    text-align: center;
+
+}
+#rodape h2{
+  color: rgb(12, 10, 10);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 20px;
+}
